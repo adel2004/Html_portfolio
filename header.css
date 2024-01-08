@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#tn{
+    width: 70px;
+    border-radius : 75px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+#head1{
+    background-color: #091756;
+    padding: 10px;
+    height: 100px;
+    margin-bottom: 15px;
+}
+#titre{
+    color: white;
+    margin-left: 5%;
+    font-size: 150%;
+    margin-top: 40px;
+    float: inline-start;
+}
+nav ul {
+    float:right;
+    word-spacing: 15px;
+    margin-right: 10%;
+    margin-top: 40px;
+}
+nav ul li {
+    display: inline;
+    font-size: 120%;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li a{
+    color: white;
+}

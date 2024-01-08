@@ -1,0 +1,109 @@
+#logo{
+    width: 130px;
+    margin-left: 5%;
+    float: left;
+    border-radius: 75px;
+}
+#head2{
+    padding: 10px; 
+    background-color: #F2F2F2;
+    height: 130px;
+}
+#pic{
+    width: 100%;
+    height: 10%;
+    filter: opacity(90%);
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#art1 #txt h1{
+    position:absolute;  
+    font-size:  450%;
+    text-align: center;
+    top: 35%;
+    margin-left: 27%;
+    color:white ;
+    margin-top: 15%;
+
+    
+}
+#art1 #txt p{
+    position:absolute;  
+    font-size:250%;
+    text-align: center;
+    top: 35%;
+    margin-left: 25%;
+    margin-top: 25%;
+    color:white ;
+}
+#art2{
+    background-color: #FDBC08;
+}
+#art2 #l1{
+    float: left;
+    margin: 160px 40px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 115%;
+    line-height: 50px;
+    font-weight: bold;
+
+
+    
+}
+#art2 img{
+    padding: 40px;
+    margin-left: 370px;
+}
+span{
+    color:#FDBC08;
+    font-size: 140%;
+}
+#art2 span{
+    color: red;
+    font-size: 140%;
+}
+
+#sec2{
+    background-color: #091756;
+    height: 240px;
+}
+#logo2{
+    float: left;
+    padding: 20px 100px;
+}
+#sec2 p{
+    float: none;
+    color: white;
+    padding-top: 50px;
+}
+#insta1,#fb1,#tiktok1,#yt1{
+    float: inline-end;  
+    width: 50px;
+    border-radius : 75px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+#lm{
+    background-color: #FDBC08;
+    border-radius: 15px;
+    width: 170px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 180%;
+    font-weight: bold;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+#insta2,#fb2,#tiktok2,#yt2{  
+    width: 50px;
+    border-radius : 75px;
+    margin-left: 30px;
+    border-color: #091756;
+}
+#gif{
+    float: inline-end;
+    width: 350px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
